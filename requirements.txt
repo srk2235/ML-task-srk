@@ -1,0 +1,6 @@
+streamlit
+random forest
+pandas
+scikit-learn
+matplotlib
+numpy
